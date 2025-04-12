@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        WELCOME TO WORLD OF VARUN RAO
       image:
         filename: welcome.jpg
       text: |
