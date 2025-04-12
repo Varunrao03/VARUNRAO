@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: WELCOME TO THE WORLD OF VARUN 
+date: 2025-04-10
 type: landing
 
 sections:
